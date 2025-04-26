@@ -1,0 +1,1 @@
+An AI-powered chatbot capable of handling conversations, answering user queries, and providing information in a natural, human-like way. This project uses modern NLP techniques and machine learning frameworks to deliver a smart and responsive chatbot experience.
